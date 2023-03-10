@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageAzureQueue", "MessageAzureQueue\MessageAzureQueue.csproj", "{CF162DF3-C91C-4BD1-8F18-380BB3C24BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF162DF3-C91C-4BD1-8F18-380BB3C24BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF162DF3-C91C-4BD1-8F18-380BB3C24BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF162DF3-C91C-4BD1-8F18-380BB3C24BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF162DF3-C91C-4BD1-8F18-380BB3C24BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48171FF-B8C6-4E26-B95E-5FFAABBBFC4D}
+	EndGlobalSection
+EndGlobal
